@@ -1,0 +1,27 @@
+{
+  "name": "demo-nextjs-app",
+  "version": "1.0.0",
+  "description": "Demo-Nextjs-app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitesh-Addact/Demo-Nextjs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitesh-Addact/Demo-Nextjs-app/issues"
+  },
+  "homepage": "https://github.com/Mitesh-Addact/Demo-Nextjs-app#readme",
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
